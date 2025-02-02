@@ -1,0 +1,1 @@
+class PagoCheque(monto: Double, val nombre: String, val banco: String) : Pago(monto, "Cheque")

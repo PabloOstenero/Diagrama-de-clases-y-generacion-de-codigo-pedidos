@@ -1,0 +1,1 @@
+open class Pago(val monto: Double, val metodo: String)
